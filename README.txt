@@ -1,5 +1,5 @@
 
-![image alt](https://github.com/sametcorekci/BlogSite-Sprigboot-RESTAPI_v2/blob/main/springboot.png?raw=true)
+![image alt](https://github.com/sametcorekci/BlogSite-Sprigboot-RESTAPI_v2/blob/5c8a5608385cc3afa27e3c52c7c0b45faa3b729d/springboot.png)
 
 Versiyon 1 
 --------------------------------------------------------------------------------
